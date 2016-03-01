@@ -21,5 +21,5 @@ octave-workspace
 #-------For Audio files -------------
 *.wav
 *.aif
-*._train
+*._train*
 *~
